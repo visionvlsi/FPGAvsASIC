@@ -1,4 +1,4 @@
-# This repository aim is to explain the differences between FPGAs abd ASICs
+# This repository aim is to explain the differences between FPGAs and ASICs
 
 FPGA (Field-Programmable Gate Array) design and ASIC (Application-Specific Integrated Circuit) design are two different approaches to designing digital electronic circuits. While they share some similarities, there are several key differences between them. Here are some of the main differences:
 
