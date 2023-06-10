@@ -6,6 +6,7 @@
 - [Differences in the context of Physical design also known as backend design PART-2](https://github.com/visionvlsi/FPGAvsASIC/blob/main/4PNRinFPGA_ASIC.md)
 - [Differences in layout point of view](https://github.com/visionvlsi/FPGAvsASIC/blob/main/5layoutInFPGA.md)
 - [What are standard cells in ASIC design?](https://github.com/visionvlsi/FPGAvsASIC/blob/main/%5C11_what_are_standard_cells_in_ASIC.md)
+- [Are there standard cells in FPGAs](https://github.com/visionvlsi/FPGAvsASIC/blob/main/%5C12_are_there_standard_cells_in_FPGAs.md)
 - [Do FPGAs have logic gates to implement the logic?](https://github.com/visionvlsi/FPGAvsASIC/blob/main/6gatesInsideFPGA.md)
 - [Two key differences between FPGAs vs ASICs](https://github.com/visionvlsi/FPGAvsASIC/blob/main/7_two_key_differences.md)
 - [How FPGAs are configured?](https://github.com/visionvlsi/FPGAvsASIC/blob/main/8_FPGAs_Configuration.md)
