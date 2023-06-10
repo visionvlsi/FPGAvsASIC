@@ -8,4 +8,4 @@
 
 <p align="justify">In contrast, ASIC design involves the complete physical design flow, including floor planning, placement, clock tree synthesis, and routing. ASIC designers have control over the physical layout of the chip, allowing them to optimize for performance, power, and area requirements.</p>
 
-<p align="justify">It's worth noting that there are emerging FPGA technologies, such as structured ASICs and eFPGAs, where a customizable fabric is integrated into an ASIC. In these cases, the FPGA fabric is designed using a traditional layout flow. However, in the more common traditional FPGA design approach, layout activities are not performed by the FPGA designer.</p>
+<p align="justify">It's worth noting that there are emerging FPGA technologies, such as structured ASICs and eFPGAs, where a customizable fabric is integrated into an ASIC. In these cases, the FPGA fabric is designed using a traditional layout flow. <b>However, in the more common traditional FPGA design approach, layout activities are not performed by the FPGA designer.</b></p>
