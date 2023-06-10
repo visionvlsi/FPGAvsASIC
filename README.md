@@ -13,4 +13,6 @@
 - [What is LUT?](https://github.com/visionvlsi/FPGAvsASIC/blob/main/9_what_is_LUT_inside_FPGA.md)
 - [What is Slice?](https://github.com/visionvlsi/FPGAvsASIC/blob/main/%5C10_what_is_slice_inside_FPGA.md)
 
+- [Is ASIC design is only specific to Digital IC design?](https://github.com/visionvlsi/FPGAvsASIC/blob/main/%5C13_is_ASIC_design_only_for_Digital_designs.md)
+
 
