@@ -1,0 +1,13 @@
+## what are the two key differences in FPGA design approach and ASIC design approach?
+
+The two key differences in FPGA design approach and ASIC design approach are:
+
+1. Programmability vs. Customization:
+   - FPGA Design Approach: <p align="justify">FPGAs are programmable devices that can be reprogrammed or reconfigured after manufacturing. FPGA designs are typically described at a high level of abstraction using hardware description languages (HDLs) like VHDL or Verilog. The FPGA design flow focuses on mapping the design onto the pre-defined resources of the FPGA architecture, utilizing programmable logic elements and interconnects. FPGAs offer flexibility, rapid prototyping, and shorter development cycles.</p>
+   - ASIC Design Approach: <p align="justify">ASICs are custom-designed integrated circuits optimized for a specific application. ASIC designs are described at a lower level of abstraction, often using RTL (Register Transfer Level) descriptions. ASIC design involves detailed physical design steps such as floor planning, placement, routing, and manufacturing-specific considerations. ASICs offer higher performance, lower power consumption, and potentially lower unit cost for high-volume production but require a longer and more costly design process.</p>
+
+2. Time-to-Market and Non-Recurring Engineering (NRE) Costs:
+   - FPGA Design Approach: <p align="justify">FPGAs provide faster time-to-market compared to ASICs. FPGAs enable rapid prototyping and allow designers to iterate and test their designs before committing to ASIC development. The design cycle for FPGAs is shorter, which can be advantageous for time-sensitive projects. FPGA development incurs lower NRE costs as the FPGA vendor bears the costs of manufacturing and chip fabrication.</p>
+   - ASIC Design Approach: <p align="justify">ASICs have longer time-to-market compared to FPGAs. ASIC development involves several stages, including RTL design, verification, synthesis, physical design, and fabrication. The ASIC design cycle is lengthier due to the detailed customization required for the target application. ASIC development incurs higher NRE costs, including mask and tooling costs, making ASICs more suitable for high-volume production scenarios where the amortized cost per unit can be lower.</p>
+
+<p align="justify">These two key differences highlight the contrasting characteristics and trade-offs between FPGA and ASIC design approaches, considering factors such as flexibility, customization, time-to-market, and NRE costs. The choice between FPGA and ASIC design depends on the specific requirements of the application, volume production expectations, time constraints, and budget considerations.</p>
