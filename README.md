@@ -7,5 +7,6 @@
 - [Differences in layout point of view](https://github.com/visionvlsi/FPGAvsASIC/blob/main/5layoutInFPGA.md)
 - [Do FPGAs have logic gates to implement the logic?](https://github.com/visionvlsi/FPGAvsASIC/blob/main/6gatesInsideFPGA.md)
 - [Two key differences between FPGAs vs ASICs](https://github.com/visionvlsi/FPGAvsASIC/blob/main/7_two_key_differences.md)
+- [How FPGAs are configured?](https://github.com/visionvlsi/FPGAvsASIC/blob/main/8_FPGAs_Configuration.md)
 
 
