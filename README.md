@@ -9,5 +9,6 @@
 - [Two key differences between FPGAs vs ASICs](https://github.com/visionvlsi/FPGAvsASIC/blob/main/7_two_key_differences.md)
 - [How FPGAs are configured?](https://github.com/visionvlsi/FPGAvsASIC/blob/main/8_FPGAs_Configuration.md)
 - [What is LUT?](https://github.com/visionvlsi/FPGAvsASIC/blob/main/9_what_is_LUT_inside_FPGA.md)
+- [What is Slice?](https://github.com/visionvlsi/FPGAvsASIC/blob/main/%5C10_what_is_slice_inside_FPGA.md)
 
 
